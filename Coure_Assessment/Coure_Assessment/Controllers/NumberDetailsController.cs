@@ -14,7 +14,7 @@ using Coure_Assessment.ResponseModels;
 
 namespace Coure_Assessment.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api")]
     [ApiController]
     public class NumberDetailsController : ControllerBase
     {
