@@ -12,4 +12,4 @@ Request:
   type: GET;
   URL: {appURL}/api/{phoneNumber};
 
-Postman request files would be attached
+Postman collection can be found in https://github.com/ijnuel/Test/blob/main/Coure%20Assessment.postman_collection.json
